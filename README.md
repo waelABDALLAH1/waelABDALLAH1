@@ -6,13 +6,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waelabdallah1" alt="waelabdallah1" /></a> </p>
 
+-👀 I’m interested in Web/Mobile development, Devops and Machine Learning
+- 💞️ I’m looking to collaborate on interesting and sophisticated projects
 - 🔭 I’m currently working on **a flutter app using tensorflow**
-- 👀 I’m interested in software engineering and new technologies
-
 - 🌱 I’m currently learning **software engineering **
-
-- 💬 Ask me about **flutter,tensorflow ,web ,software**
-
 - 📫 How to reach me **waelabdallah846@gmail.com**
 
 
