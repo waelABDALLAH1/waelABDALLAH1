@@ -6,13 +6,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waelabdallah1" alt="waelabdallah1" /></a> </p>
 
-- 🔭 I’m currently working on **a flutter app**
+- 🔭 I’m currently working on **a flutter app using tensorflow**
+- - 👀 I’m interested in software engineering and new technologies
 
-- 🌱 I’m currently learning **flutter and machine learning**
+- 🌱 I’m currently learning **software engineering **
 
-- 💬 Ask me about **flutter,tensorflow ,web**
+- 💬 Ask me about **flutter,tensorflow ,web ,software**
 
 - 📫 How to reach me **waelabdallah846@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
