@@ -1,5 +1,9 @@
 ![MasterHead](https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDQwMjQxMzAsIm5iZiI6MTcwNDAyMzgzMCwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyMzEyMzElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjMxVDExNTcxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY1MDI0Y2VjOTNkZjQxYWM2ZTdhYWMwZDk4YzYzM2U5ZjY5M2JiMmNmMzVjYmY5MWU5M2U3MTUwNTNjYjg3ZWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.TsEmBKEpQlHH_Gjj1LicqaO1k47CQaQ9vzgH94pCgxY)
 <h1 align="center">Hi 👋, I'm ABDALLAH Wael</h1>
+<div id="badges">
+    <a href="https://www.linkedin.com/in/skander-tebourbi-a8152b222/" target="_blank" rel="noreferrer">
+      <img height="30px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
 <h3 align="center">A passionate Software engineering student from Tunisia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waelabdallah1&label=Profile%20views&color=0e75b6&style=flat" alt="waelabdallah1" /> </p>
