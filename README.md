@@ -37,8 +37,8 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=waelABDALLAH1&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waelabdallah1&show_icons=true&locale=en&layout=compact" alt="waelabdallah1" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waelABDALLAH1&show_icons=true&locale=en&layout=compact" alt="waelabdallah1" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waelabdallah1&show_icons=true&locale=en" alt="waelabdallah1" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waelABDALLAH1&show_icons=true&locale=en" alt="waelabdallah1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waelabdallah1&theme=dark" alt="waelabdallah1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waelABDLLAH1&theme=dark" alt="waelabdallah1" /></p>
