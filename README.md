@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waelabdallah1" alt="waelabdallah1" /></a> </p>
 
 - 🔭 I’m currently working on **a flutter app using tensorflow**
-- - 👀 I’m interested in software engineering and new technologies
+- 👀 I’m interested in software engineering and new technologies
 
 - 🌱 I’m currently learning **software engineering **
 
