@@ -33,10 +33,11 @@
 
 ### :fire: My Stats :
 <p align="center">
-<a href="https://github.com/waelABDALLAH1">
+<a href="https://github.com/skandertebo">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=waelABDALLAH1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=waelABDALLAH1&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=waelABDALLAH1&theme=algolia" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=waelABDALLAH1&theme=algolia" alt="GitHub Streak" /></a>
 </p>
+
 
