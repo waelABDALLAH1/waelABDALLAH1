@@ -4,16 +4,16 @@
     <a href="https://www.linkedin.com/in/wael-abdallah-b356ab225/" target="_blank" rel="noreferrer">
       <img height="30px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-<h3 align="center">A passionate Software engineering student from Tunisia</h3>
+<h3 align="center">A passionate Software engineering student </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waelabdallah1&label=Profile%20views&color=0e75b6&style=flat" alt="waelabdallah1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waelabdallah1" alt="waelabdallah1" /></a> </p>
 
--👀 I’m interested in Web/Mobile development, Devops and Machine Learning
+-👀 I’m interested in Web/Mobile development and  Devops 
 - 💞️ I’m looking to collaborate on interesting and sophisticated projects
-- 🔭 I’m currently working on **a flutter app using tensorflow**
-- 🌱 I’m currently learning **software engineering **
+- 🔭 I’m currently working on **mobile apps and voip apps **
+- 🌱 I’m currently learning **AWS Solutions Architect **
 - 📫 How to reach me **waelabdallah846@gmail.com**
 
 
