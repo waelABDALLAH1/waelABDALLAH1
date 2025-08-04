@@ -4,7 +4,7 @@
     <a href="https://www.linkedin.com/in/wael-abdallah-b356ab225/" target="_blank" rel="noreferrer">
       <img height="30px" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-<h3 align="center">A passionate Software engineering student </h3>
+<h3 align="center">A passionate Software engineer </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waelabdallah1&label=Profile%20views&color=0e75b6&style=flat" alt="waelabdallah1" /> </p>
 
